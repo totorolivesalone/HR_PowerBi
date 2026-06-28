@@ -31,5 +31,5 @@ the results were sheepishly bad (18% translated to actual attrition) . However, 
 created two dashboards : overview and HR Action panel (based on slicer values) 
 I had to add measure values here and transformed Department data to trim down on results after I noticed slicer not working for certain departments 
 
-[Overview]('https://github.com/totorolivesalone/HR_PowerBi/blob/main/overview.png')
+![Overview]('https://github.com/totorolivesalone/HR_PowerBi/blob/main/overview.png')
 
